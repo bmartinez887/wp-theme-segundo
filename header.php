@@ -17,5 +17,5 @@
 
 <?php wp_nav_menu( array( 'theme_location' => 'primary') ); ?>
     <div class="menu">
-        <menu>menu</menu>
+       
 </div>
